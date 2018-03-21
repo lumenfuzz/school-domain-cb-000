@@ -19,8 +19,8 @@ class School
   end
 
   def sort
-      puts @roster[7]
-      puts @roster[9]
-      puts @roster[10]
+    @roster.each do |grade, students|
+      puts students
+    end
   end
 end
