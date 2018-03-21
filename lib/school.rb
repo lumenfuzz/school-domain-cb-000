@@ -22,6 +22,5 @@ class School
       puts @roster[7]
       puts @roster[9]
       puts @roster[10]
-    end
   end
 end
