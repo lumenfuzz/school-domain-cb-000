@@ -19,7 +19,5 @@ class School
   end
 
   def sort
-    @roster[grade].each do |person|
-    end
   end
 end
